@@ -2,7 +2,7 @@
 <h2>👨‍💻 DevSphere Projects:</h2>
 
 - <b>Interactive EDUSMART DIGITAL LIBRARY pitch presentation </b>
-  - [ BRIDGING THE EDUCATIONAL GAP IN NIGERIA ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ BRIDGING THE EDUCATIONAL GAP IN NIGERIA ](https://docs.google.com/presentation/d/1-1AAbmGGrhIZl0BniPtZB4tcAY9dAvsr/edit?usp=sharing&ouid=115332092675265522004&rtpof=true&sd=true)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
