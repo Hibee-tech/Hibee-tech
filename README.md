@@ -3,8 +3,7 @@
 
 - <b>Interactive EDUSMART DIGITAL LIBRARY pitch presentation </b>
   - [ BRIDGING THE EDUCATIONAL GAP IN NIGERIA ](https://docs.google.com/presentation/d/1-1AAbmGGrhIZl0BniPtZB4tcAY9dAvsr/edit?usp=sharing&ouid=115332092675265522004&rtpof=true&sd=true)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+
   
 <h2> 📄 Certifications:  </h2>
 
